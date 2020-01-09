@@ -1,7 +1,7 @@
 <?php
 
 // configure
-$from = 'administrator@benedicthalim.com';
+$from = 'admin@benedicthalim.com';
 $sendTo = 'bhalim1994@gmail.com';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'email' => 'Email', 'subject' => 'Subject', 'message' => 'Message'); // array variable name => Text to appear in the email. If you added or deleted a field in the contact form, edit this array.
