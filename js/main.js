@@ -1,8 +1,3 @@
-/*
-* Author: lmpixels
-* Version: 2.3
-*/
-
 (function($) {
 "use strict";
     // Portfolio subpage filters
